@@ -37,8 +37,8 @@ body ul {
 .header-logo {
     display: flex;
     align-items: center;
-    width: 100%;
-    height: 100%;
+    width: 150%;
+    height: 150%;
 }
 
 .header-navbar {
@@ -102,64 +102,9 @@ img {
     width: 45%;
 }
 
-.logo-completo {
-    width: 100%;
-    height: 100%;
-}
-
-/* SERVIÇOS */
-.servicos {
-    width: 100%;
-    height: 95vh;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    background: #1C1B1A;
-}
-
-.img-C {
-    width: 10%;
-    height: 25%;
-}
-
-.img-CSharp {
-    width: 10%;
-    height: 25%;
-}
-
-.img-CPlus {
-    width: 10%;
-    height: 25%;
-}
-
-.img-Node {
-    width: 10%;
-    height: 25%;
-}
-
-.img-Java {
-    width: 10%;
-    height: 25%;
-}
-
-.img-Python {
-    width: 20vw;
-    height: 27vh;
-    transform: rotate(30deg);
-}
-
-.img-React {
-    width: 25vw;
-    height: 40vh;
-    transform: rotate(-60deg);
-}
-
-.img-MySQL {
-    width: 20vw;
-    height: 25vh;
-    transform: rotate(-70deg);
+.full-logo {
+    width: 50%;
+    height: 50%;
 }
 
 /* CONTATO */
