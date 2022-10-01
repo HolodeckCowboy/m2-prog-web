@@ -73,8 +73,10 @@ img {
 }
 
 .carousel-img {
+    background-color: #FFFFFF;
     width: 30%;
     height: 30%;
+    padding-left: 35%;
 }
 
 /* SOBRE */
