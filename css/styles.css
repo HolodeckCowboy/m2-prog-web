@@ -72,6 +72,11 @@ img {
     height: 100%;
 }
 
+.carousel-img {
+    width: 30%;
+    height: 30%;
+}
+
 /* SOBRE */
 .sobre {
     width: 100%;
