@@ -73,7 +73,6 @@ img {
 }
 
 .carousel-img {
-    background-color: #FFFFFF;
     width: 30%;
     height: 30%;
 }
@@ -120,11 +119,11 @@ img {
 /* CONTATO */
 .contato {
     width: 100%;
-    height: 95vh;
+    height: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #3C3131;
+    background: #1A1F16;
 }
 
 .contato-form {
@@ -144,7 +143,7 @@ img {
     position: absolute;
     width: 100%;
     height: 101px;
-
+    margin-top: 116%;
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 400;
